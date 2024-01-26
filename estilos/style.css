@@ -85,6 +85,7 @@ img {
 .apresentacao{
     flex-direction: row;
     justify-content: space-between;
+    margin: 10% 15%;  
 }
 .apresentacao_conteudo{
     width: 615px;
