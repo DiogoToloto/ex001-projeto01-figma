@@ -8,7 +8,7 @@
 }
 
 body {
-    height: 100vh;
+    height: 0;
     box-sizing: border-box;
     background-color: #000;
     
@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     align-items: center;
     max-width: 1500px; 
-    margin: 10% 15%;  
+    margin: 1% 15%;  
 }
 
 .apresentacao_conteudo {
